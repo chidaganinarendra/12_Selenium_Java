@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T15:16:18 IST" name="Default suite" finished-at="2024-03-20T15:17:05 IST" duration-ms="47425">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T15:16:18 IST" name="Default test" finished-at="2024-03-20T15:17:05 IST" duration-ms="47425">
+      <class name="Selenium.Mvnrepository">
+        <test-method signature="OpenBrowser()[pri:1, instance:Selenium.Mvnrepository@7e9131d5]" started-at="2024-03-20T15:16:18 IST" name="OpenBrowser" finished-at="2024-03-20T15:17:00 IST" duration-ms="42517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="Serch_Element()[pri:2, instance:Selenium.Mvnrepository@7e9131d5]" started-at="2024-03-20T15:17:00 IST" name="Serch_Element" finished-at="2024-03-20T15:17:05 IST" duration-ms="4858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Serch_Element -->
+      </class> <!-- Selenium.Mvnrepository -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
